@@ -1,5 +1,5 @@
 // Filename MovieQuoteInfo.java
-// Written by Wyatt H. Pearce
+// Written by 
 // Written on 8-24-2024
 
 package Chapter1.Exercise1;
