@@ -14,5 +14,6 @@ public class CompareStrings {
          System.out.println(aName + " equals " + anotherName);
       else
          System.out.println(aName + " does not equal " + anotherName);
+      input.close();
    }
 }
